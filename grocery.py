@@ -181,15 +181,15 @@ def query_api(term, location):
 
     dict = {'Latitude': businesses[0]['coordinates']['latitude'],'Longitude': businesses[0]['coordinates']['longitude'],'Categories':
         businesses[0]['categories'],'Distance': businesses[0]['distance'],'Is_closed': businesses[0]['is_closed'],'Name': businesses[0]['name'],
-            'Zip': businesses[0]['location']['zip_code']}
+            'Zip': businesses[0]['location']['zip_code'], 'City': businesses[0]['location']['city']}
 
     df = pandas.DataFrame(data=dict)
 
 
     for index in range(1,len(businesses)):
         list = {'Latitude': businesses[index]['coordinates']['latitude'],'Longitude': businesses[index]['coordinates']['longitude'],
-              'Categories': businesses[index]['categories'],'Distance': businesses[index]['distance'],'Is closed': businesses[index]['is_closed'],'Name': businesses[index]['name'],
-              'Zip': businesses[index]['location']['zip_code']}
+              'Categories': businesses[index]['categories'],'Distance': businesses[index]['distance'], 'Is closed': businesses[index]['is_closed'],'Name': businesses[index]['name'],
+              'Zip': businesses[index]['location']['zip_code'],'City': businesses[index]['location']['city']}
         tempdf = pandas.DataFrame(data=list)
         df = df.append(tempdf, ignore_index=True)
     with open('test.csv', 'a') as f:
@@ -213,7 +213,6 @@ def main():
     # you may also want to remove whitespace characters like `\n` at the end of each line
     content = [x.strip() for x in content]
 
-    print(content)
     for x in range(0, len(content)):
         input_values.location = str(content[x])
 
