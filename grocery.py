@@ -192,8 +192,9 @@ def query_api(term, location):
               'Zip': businesses[index]['location']['zip_code']}
         tempdf = pandas.DataFrame(data=list)
         df = df.append(tempdf, ignore_index=True)
+    with open('test.csv', 'a') as f:
+        (df).to_csv(f, header=False, index=False)
 
-    df.to_csv('test.csv', index=False)
 
 
 def main():
@@ -207,18 +208,25 @@ def main():
 
     input_values = parser.parse_args()
 
-    input_values.location = "15206"
+    with open('pghzipcodes.txt') as f:
+        content = f.readlines()
+    # you may also want to remove whitespace characters like `\n` at the end of each line
+    content = [x.strip() for x in content]
 
-    try:
-        query_api(input_values.term, input_values.location)
-    except HTTPError as error:
-        sys.exit(
-            'Encountered HTTP error {0} on {1}:\n {2}\nAbort program.'.format(
-                error.code,
-                error.url,
-                error.read(),
+    print(content)
+    for x in range(0, len(content)):
+        input_values.location = str(content[x])
+
+        try:
+            query_api(input_values.term, input_values.location)
+        except HTTPError as error:
+            sys.exit(
+                'Encountered HTTP error {0} on {1}:\n {2}\nAbort program.'.format(
+                    error.code,
+                    error.url,
+                    error.read(),
+                )
             )
-        )
 
 
 if __name__ == '__main__':
