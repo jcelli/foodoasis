@@ -39,6 +39,7 @@ except ImportError:
     from urllib import quote
     from urllib import urlencode
 
+import pandas
 
 # OAuth credential placeholders that must be filled in by users.
 # You can find them on
@@ -173,7 +174,28 @@ def query_api(term, location):
 
     business_id = businesses[0]['id']
 
+    # data needed amount of businesses
+    # , businesses, categories, categories.alias, categories.title, latitude, longitude
+    # distance, is_closed, name, price
+
     print(businesses[1]['coordinates']['latitude'])
+    print(businesses[1]['coordinates']['longitude'])
+    print(businesses[1]['categories'])
+    print(businesses[1]['distance'])
+    print(businesses[1]['is_closed'])
+    print(businesses[1]['name'])
+    print(businesses[1]['price'])
+    print(businesses[1]['location']['zip_code'])
+
+
+    # dataframe to add all loop dataframes into
+    df = pandas.DataFrame()
+
+    for index in len(businesses):
+        tempdf = pandas.DataFrame(businesses[index]['coordinates']['latitude'],businesses[index]['coordinates']['longitude'],businesses[index]['categories'],businesses[index]['distance'],businesses[index]['is_closed'],businesses[1]['name'],businesses[1]['price'],businesses[1]['location']['zip_code'])
+        df.append(tempdf)
+
+    print df.values
 
 
     #print(u'{0} businesses found, querying business info ' \
