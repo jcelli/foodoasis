@@ -40,6 +40,7 @@ except ImportError:
     from urllib import urlencode
 
 import pandas
+import numpy
 
 # OAuth credential placeholders that must be filled in by users.
 # You can find them on
@@ -113,8 +114,6 @@ def request(host, path, bearer_token, url_params=None):
         'Authorization': 'Bearer %s' % bearer_token,
     }
 
-    print(u'Querying {0} ...'.format(url))
-
     response = requests.request('GET', url, headers=headers, params=url_params)
 
     return response.json()
@@ -136,7 +135,7 @@ def search(bearer_token, term, location):
     url_params = {
         'categories': term.replace(' ', '+'),
         'location': location.replace(' ', '+'),
-        'limit': SEARCH_LIMIT
+        'limit': 50,
     }
     return request(API_HOST, SEARCH_PATH, bearer_token, url_params=url_params)
 
@@ -178,33 +177,23 @@ def query_api(term, location):
     # , businesses, categories, categories.alias, categories.title, latitude, longitude
     # distance, is_closed, name, price
 
-    print(businesses[1]['coordinates']['latitude'])
-    print(businesses[1]['coordinates']['longitude'])
-    print(businesses[1]['categories'])
-    print(businesses[1]['distance'])
-    print(businesses[1]['is_closed'])
-    print(businesses[1]['name'])
-    print(businesses[1]['price'])
-    print(businesses[1]['location']['zip_code'])
-
-
     # dataframe to add all loop dataframes into
-    df = pandas.DataFrame()
 
-    for index in len(businesses):
-        tempdf = pandas.DataFrame(businesses[index]['coordinates']['latitude'],businesses[index]['coordinates']['longitude'],businesses[index]['categories'],businesses[index]['distance'],businesses[index]['is_closed'],businesses[1]['name'],businesses[1]['price'],businesses[1]['location']['zip_code'])
-        df.append(tempdf)
+    dict = {'Latitude': businesses[0]['coordinates']['latitude'],'Longitude': businesses[0]['coordinates']['longitude'],'Categories':
+        businesses[0]['categories'],'Distance': businesses[0]['distance'],'Is_closed': businesses[0]['is_closed'],'Name': businesses[0]['name'],
+            'Zip': businesses[0]['location']['zip_code']}
 
-    print df.values
+    df = pandas.DataFrame(data=dict)
 
 
-    #print(u'{0} businesses found, querying business info ' \
-     #   'for the top result "{1}" ...'.format(
-      #      len(businesses), business_id))
-    #response = get_business(bearer_token, business_id)
+    for index in range(1,len(businesses)):
+        list = {'Latitude': businesses[index]['coordinates']['latitude'],'Longitude': businesses[index]['coordinates']['longitude'],
+              'Categories': businesses[index]['categories'],'Distance': businesses[index]['distance'],'Is closed': businesses[index]['is_closed'],'Name': businesses[index]['name'],
+              'Zip': businesses[index]['location']['zip_code']}
+        tempdf = pandas.DataFrame(data=list)
+        df = df.append(tempdf, ignore_index=True)
 
-    #print(u'Result for business "{0}" found:'.format(business_id))
-    #pprint.pprint(response, indent=2)
+    df.to_csv('test.csv', index=False)
 
 
 def main():
@@ -218,7 +207,7 @@ def main():
 
     input_values = parser.parse_args()
 
-    input_values.location = "15213"
+    input_values.location = "15206"
 
     try:
         query_api(input_values.term, input_values.location)
