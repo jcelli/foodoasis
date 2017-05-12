@@ -1,0 +1,1541 @@
+"{u'alias': u'grocery', u'title': u'Grocery'}",Hopewell Junction,3263.40903036,,False,41.578882,-73.8083864,Berry's Farm,12533
+"{u'alias': u'grocery', u'title': u'Grocery'}",Fishkill,3421.72608258,False,,41.5441922843,-73.8737607747,NATURES Pantry,12524
+"{u'alias': u'grocery', u'title': u'Grocery'}",Hopewell,3937.01100114,False,,41.5714029,-73.8366238,ACME Markets,12533
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Hopewell,3937.01100114,False,,41.5714029,-73.8366238,ACME Markets,12533
+"{u'alias': u'grocery', u'title': u'Grocery'}",Fishkill,6492.7615295,False,,41.5446210709,-73.8756360529,Nature's Pantry,12524
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Fishkill,6492.7615295,False,,41.5446210709,-73.8756360529,Nature's Pantry,12524
+"{u'alias': u'delis', u'title': u'Delis'}",Stormville,4747.88693805,False,,41.571537,-73.747818,LALI,12582
+"{u'alias': u'servicestations', u'title': u'Gas Stations'}",Stormville,4747.88693805,False,,41.571537,-73.747818,LALI,12582
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Stormville,4747.88693805,False,,41.571537,-73.747818,LALI,12582
+"{u'alias': u'grocery', u'title': u'Grocery'}",Stormville,4747.88693805,False,,41.571537,-73.747818,LALI,12582
+"{u'alias': u'grocery', u'title': u'Grocery'}",Fishkill,8500.75806106,False,,41.53948,-73.89852,ShopRite,12524
+"{u'alias': u'grocery', u'title': u'Grocery'}",Wappingers Falls,10674.0585945,False,,41.5942306519,-73.8875427246,Saraswati Grocery,12590
+"{u'alias': u'grocery', u'title': u'Grocery'}",Wappingers Falls,11881.4530547,False,,41.6147044789,-73.9126325572,Aldi,12590
+"{u'alias': u'grocery', u'title': u'Grocery'}",Poughkeepsie,19437.4089618,False,,41.694378,-73.931656,Jiggleby's Food & Market,12601
+"{u'alias': u'delis', u'title': u'Delis'}",Poughkeepsie,19437.4089618,False,,41.694378,-73.931656,Jiggleby's Food & Market,12601
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carmel,18634.5977495,False,,41.4146995544,-73.6656265259,Tops Friendly Market,10512
+"{u'alias': u'grocery', u'title': u'Grocery'}",Hopewell Junction,11991.1762466,False,,41.6274000419,-73.6961469135,Stop & Shop,12533
+"{u'alias': u'grocery', u'title': u'Grocery'}",Cold Spring,18140.9278765,False,,41.4271584,-73.9406586,Pete's Hometown Grocery,10516
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Poughkeepsie,13238.6561476,False,,41.6096458,-73.9113312,Price Chopper,12601
+"{u'alias': u'grocery', u'title': u'Grocery'}",Poughkeepsie,13238.6561476,False,,41.6096458,-73.9113312,Price Chopper,12601
+"{u'alias': u'grocery', u'title': u'Grocery'}",Cherry Grove,115454.833739,False,,40.6603856,-73.0889161,Grove Market,11782
+"{u'alias': u'grocery', u'title': u'Grocery'}",Poughkeepsie,18868.0309072,False,,41.6981964111,-73.9106674194,Casa Latina Supermarket,12601
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1142.58273356,,False,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1465.83080698,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1465.83080698,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1722.3724777,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,1722.3724777,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1722.3724777,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1075.44782799,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1401.1879644,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1401.1879644,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,919.76516878,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,919.76516878,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1585.89851449,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,1873.37974671,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,1873.37974671,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1873.37974671,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3173.29806041,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2919.68200887,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2919.68200887,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2919.68200887,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2244.99840067,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,2244.99840067,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3149.04788155,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,3149.04788155,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,3149.04788155,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,1214.62860451,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,1214.62860451,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1214.62860451,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1934.33172894,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1753.80465818,False,,40.4837379,-79.9474792,Shop 'n Save,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4401.15254291,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3084.67814397,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2811.91480885,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,3647.69834,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3647.69834,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3475.2736524,False,,40.4991531372,-79.9790344238,SHOP 'n SAVE,15209
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,2732.80222939,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2732.80222939,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4187.89181841,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4125.44588586,False,,40.50362,-79.93732,Christy's Market,15215
+"{u'alias': u'catering', u'title': u'Caterers'}",Pittsburgh,4125.44588586,False,,40.50362,-79.93732,Christy's Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,980.726388618,,False,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2435.51995564,False,,40.5215699,-80.0689,Giant Eagle,15237
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,1498.62819058,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,1498.62819058,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,3361.35185342,False,,40.5169450845,-80.0387971577,Giant Eagle Supermarket,15229
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,2447.76960798,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2447.76960798,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2825.41443557,False,,40.51527,-80.0451099,Arnolds Market,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,3614.83754841,False,,40.4699715972,-80.0766346604,Shop N'save,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5193.3321333,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",McKees Rocks,3412.81210926,,False,40.4679583981,-80.0976522888,Giant Eagle,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4134.80886505,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4134.80886505,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,4134.80886505,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4038.075461,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,3673.93589282,False,,40.4699715972,-80.0766346604,Shop N'save,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3292.52778458,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2828.43532768,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,5007.70763902,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3555.34185795,,False,40.4417433998,-80.1514752138,Giant Eagle Market District,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7143.85060396,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,7143.85060396,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8680.85302404,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6407.96427836,False,,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5703.85227892,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,5703.85227892,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,5953.40619536,False,,40.3863983,-80.0931015,Shop N' Save,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6463.9387329,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,6463.9387329,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,6463.9387329,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",McKees Rocks,3311.62018967,False,,40.4679583981,-80.0976522888,Giant Eagle,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,10479.1932699,False,,40.5169450845,-80.0387971577,Giant Eagle Supermarket,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,7704.63075965,False,,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,5115.43718049,False,,40.3970947266,-80.0850143433,ALDI,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7810.93329934,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,7956.01787528,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10493.3055724,False,,40.3685013505,-80.0280508999,SHOP 'n SAVE,15234
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7878.24040429,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6947.7224303,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7096.74795804,False,,40.4000511,-80.0437469,Kohli's Indian Emporium,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bridgeville,8059.8492734,False,,40.3667297363,-80.1068115234,Giant Eagle,15017
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10184.7746557,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8668.32044972,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9383.26942285,False,,40.3920757,-80.0179599,Daree Salam African Market,15226
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,7704.46902098,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,7704.46902098,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7819.91019786,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7963.96270406,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7923.87838988,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'fooddeliveryservices', u'title': u'Food Delivery Services'}",Pittsburgh,7923.87838988,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Oakdale,8034.80923048,False,,40.3983612061,-80.1875076294,Sil's Market,15071
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,3932.20631657,False,,40.4699715972,-80.0766346604,Shop N'save,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7842.40313837,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,5993.06017203,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Carnegie,5993.06017203,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Carnegie,5993.06017203,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,8411.43759892,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4957.39902688,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7750.81093188,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10029.1493856,False,,40.51527,-80.0451099,Arnolds Market,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,796.87923334,,False,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2211.63887461,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,2211.63887461,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2211.63887461,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,2003.58114634,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2003.58114634,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1566.78335334,False,,40.4436531,-79.8843423,Pittsburgh Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Wilkinsburg,2253.3586001,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'delis', u'title': u'Delis'}",Wilkinsburg,2253.3586001,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Wilkinsburg,2253.3586001,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,2765.94240241,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2765.94240241,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2553.66562839,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,2553.66562839,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4101.9265083,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,135.676816872,False,,40.4047838598,-79.990465343,Shop 'n Save,15210
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2938.65934615,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3166.25043868,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2612.43116129,False,,40.3920757,-80.0179599,Daree Salam African Market,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3011.19616237,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2722.99684264,False,,40.3834037781,-79.9774703979,Cogo's,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2852.66410232,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2716.42639022,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,3771.30096282,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4287.66156424,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2021.68638227,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2021.68638227,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4297.01617486,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,4297.01617486,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,4297.01617486,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4036.38501026,False,,40.3696861267,-79.9820632935,McGinnis Sisters Special Food Stores,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2665.38520652,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4353.39924082,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,3306.86185409,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3759.06901322,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3885.57182766,False,,40.3709683,-79.9826495,Dollar General,15227
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,4158.01442131,False,,40.4094799527,-79.9435343966,S&R Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4158.01442131,False,,40.4094799527,-79.9435343966,S&R Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,925.440184422,,False,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2527.81367343,False,,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2181.68422919,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,2181.68422919,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,2181.68422919,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,391.002349588,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,180.898512873,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1694.12115774,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,908.60188531,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,539.236114231,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2335.15765082,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,768.456470386,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,768.456470386,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,568.592825467,,False,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,805.27833052,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,706.128615114,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,706.128615114,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,706.128615114,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1227.44603201,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1114.59074264,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1437.21786832,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2140.20139855,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2140.20139855,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1710.86183429,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,1710.86183429,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2357.06366503,False,,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,556.015221818,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,556.015221818,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1405.6458362,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,379.239747902,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2935.76414349,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1131.05396897,False,,40.4551620483,-79.9314727783,Uni Marts,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,688.373137042,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,795.06555544,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2694.49543124,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,572.147004577,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,572.147004577,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3344.90665169,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,3344.90665169,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,3344.90665169,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2953.34489552,False,,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2960.47555919,False,,40.4297116399,-79.9229688942,Young's Oriental Grocery Store,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4186.44630922,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,4186.44630922,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4186.44630922,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4151.48726014,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,2595.26819393,False,,40.4071655273,-79.9122619629,ALDI,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,2948.42578688,False,,40.4114837646,-79.9087677002,Giant Eagle,15120
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,3513.95751892,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3513.95751892,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,641.027738274,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,641.027738274,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,641.027738274,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1961.14767856,False,,40.4218924216,-79.9288652885,Giant Eagle,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3668.22080462,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3829.96526824,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2025.2185617,False,,40.42237,-79.92856,Kiev,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2157.49423965,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5054.92358248,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4048.20432509,False,,40.4047838598,-79.990465343,Shop 'n Save,15210
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3996.77287644,False,,40.3834037781,-79.9774703979,Cogo's,15227
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,170.515656305,False,,40.4094799527,-79.9435343966,S&R Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,170.515656305,False,,40.4094799527,-79.9435343966,S&R Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5392.83058679,False,,40.3696861267,-79.9820632935,McGinnis Sisters Special Food Stores,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4537.25056429,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4213.90551204,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3675.26858728,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,3675.26858728,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3768.21054722,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3768.21054722,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5310.4106527,False,,40.3709683,-79.9826495,Dollar General,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2818.27089718,,False,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,3166.89063413,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,3166.89063413,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3166.89063413,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,478.170705722,False,,40.4991531372,-79.9790344238,SHOP 'n SAVE,15209
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4426.85949633,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4426.85949633,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3464.3547633,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,3464.3547633,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4329.95823812,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,4329.95823812,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4329.95823812,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3911.34009693,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3294.42439177,False,,40.5114078455,-79.9451072884,Aldi,15223
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3006.85303651,False,,40.5117081106,-79.9479945749,Shop N'save,15223
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4066.4712997,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2844.17483382,False,,40.4837379,-79.9474792,Shop 'n Save,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4370.10193695,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4370.10193695,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3946.33342496,False,,40.52485,-80.0077,Kuhn's Market,15237
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,3789.495839,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,3789.495839,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3789.495839,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5825.46607937,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5628.62400249,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5473.79052763,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4672.71804626,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5783.3327535,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,5783.3327535,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,5783.3327535,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,4400.2408518,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5130.90503003,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1281.52741991,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,592.075445704,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,277.208460945,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1941.4116984,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,952.61255457,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2093.22862637,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,3391.30617697,,False,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,3391.30617697,,False,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3391.30617697,,False,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2585.7743754,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4592.6454955,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4602.40260205,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4606.5989561,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,4606.5989561,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4492.55468634,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3949.53182728,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,5010.62859112,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,5010.62859112,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5010.62859112,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4577.67718509,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,4577.67718509,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4530.74915256,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,4530.74915256,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4200.99265068,False,,40.52485,-80.0077,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,4138.29775324,False,,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,3616.86837456,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,3616.86837456,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6123.40753879,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,6123.40753879,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,4690.38312771,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,4690.38312771,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4690.38312771,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4591.55581138,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2171.77198227,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,3835.3544651,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5483.3100956,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7452.50978498,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7129.17181382,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6694.24027586,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Glenshaw,7133.57593366,False,,40.5376244,-79.9635773,Giant Eagle,15116
+"{u'alias': u'grocery', u'title': u'Grocery'}",Glenshaw,7133.57593366,False,,40.5376244,-79.9635773,Giant Eagle,15116
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,6025.05192002,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7777.4171845,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,7777.4171845,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7729.96547273,False,,40.4551620483,-79.9314727783,Uni Marts,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6542.79671477,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,9515.66370916,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9515.66370916,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,7146.19863102,False,,40.4699715972,-80.0766346604,Shop N'save,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10088.6294655,False,,40.4218924216,-79.9288652885,Giant Eagle,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10058.0811345,False,,40.42237,-79.92856,Kiev,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,12219.1997688,False,,40.4071655273,-79.9122619629,ALDI,15120
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,10339.0052718,False,,40.4094799527,-79.9435343966,S&R Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10339.0052718,False,,40.4094799527,-79.9435343966,S&R Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,538.630583962,,False,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,538.630583962,,False,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,518.498609606,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,640.562510267,False,,40.4000511,-80.0437469,Kohli's Indian Emporium,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,523.247997254,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1490.71265179,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1861.91625696,False,,40.3920757,-80.0179599,Daree Salam African Market,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1582.89291111,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,366.668130997,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1474.12985149,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'fooddeliveryservices', u'title': u'Food Delivery Services'}",Pittsburgh,1474.12985149,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2673.62100397,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2132.88566078,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1781.70417642,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2044.69930054,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,134.880764888,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2188.35607003,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2188.35607003,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2188.35607003,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2027.99225919,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,2027.99225919,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,2027.99225919,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2054.51804481,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1999.4203587,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2196.35416796,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2196.35416796,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3377.30588457,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,3377.30588457,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3377.30588457,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,2471.25921275,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,2471.25921275,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2471.25921275,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4773.64297634,False,,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2179.95161375,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2179.95161375,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3034.5151771,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,846.672808396,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3539.22463972,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,3539.22463972,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2068.34388475,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2739.1213029,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2249.38192096,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3903.33620538,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1750.06793163,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4421.25641819,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4421.25641819,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,4421.25641819,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,3441.29034616,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,3441.29034616,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3441.29034616,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4089.11133388,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3020.63123999,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4722.67871909,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3478.10110185,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3679.17381172,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,2816.75827851,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,5807.63958113,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,5807.63958113,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3300.84968172,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1984.62939756,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4375.4579814,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4375.4579814,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4705.08010339,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,946.741521316,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,946.741521316,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,946.741521316,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,441.140580898,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1927.29971781,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1927.29971781,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2050.23301613,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1799.13300675,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,1799.13300675,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1799.13300675,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2325.79241856,False,,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2498.64309846,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,812.241461898,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,812.241461898,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1709.16414152,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,1709.16414152,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,604.254641142,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2177.99401257,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2585.70887526,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,2585.70887526,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,2585.70887526,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1934.93619704,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1934.93619704,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2076.836211,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2319.85926478,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2442.558726,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2492.04625286,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,2223.74416916,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,2223.74416916,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2223.74416916,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2657.65007474,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2191.92896577,False,,40.4551620483,-79.9314727783,Uni Marts,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2364.0721798,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2760.45712795,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1722.10902874,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Pittsburgh,1722.10902874,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,1722.10902874,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4070.89344415,False,,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2279.15809058,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3869.68828559,False,,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4463.9787625,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1101.71055089,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,1101.71055089,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4359.31324346,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,4359.31324346,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,4359.31324346,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4863.20339108,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4863.20339108,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Aspinwall,1359.2887975,False,,40.4883651733,-79.89868927,Labriola's Italian Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4581.00497834,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4890.48492276,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4890.48492276,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4957.73859762,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3324.25721015,False,,40.5114078455,-79.9451072884,Aldi,15223
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4207.6667446,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,4181.08463208,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4181.08463208,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3717.5181075,False,,40.5117081106,-79.9479945749,Shop N'save,15223
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2335.71094191,False,,40.50362,-79.93732,Christy's Market,15215
+"{u'alias': u'catering', u'title': u'Caterers'}",Pittsburgh,2335.71094191,False,,40.50362,-79.93732,Christy's Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3325.76387426,False,,40.4837379,-79.9474792,Shop 'n Save,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4088.02551218,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1210.51159093,False,,40.49663,-79.92619,Cogo's,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3926.57024696,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2087.14338996,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,2087.14338996,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,2087.14338996,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2644.93693248,False,,40.4881813021,-79.8820468305,Community Supermarket,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1103.71884627,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,1103.71884627,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4402.96128013,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,3671.20017576,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3671.20017576,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1051.07321496,,False,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,1051.07321496,,False,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1051.07321496,,False,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,274.883157766,False,,40.4297116399,-79.9229688942,Young's Oriental Grocery Store,15217
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,370.204687834,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,370.204687834,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2223.63779179,False,,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2312.19832358,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2312.19832358,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1262.47697031,False,,40.4218924216,-79.9288652885,Giant Eagle,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,2621.13865629,False,,40.4114837646,-79.9087677002,Giant Eagle,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1195.01879661,False,,40.42237,-79.92856,Kiev,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2681.97396137,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1478.80498419,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,2937.24071294,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2937.24071294,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,673.489703228,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,673.489703228,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3698.75609991,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,3698.75609991,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,3698.75609991,False,,40.4023208618,-79.941696167,Dylamato's Market,15207
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3322.23861499,False,,40.4224014282,-79.8853607178,Cogo's,15218
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,3737.27854962,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3737.27854962,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,65.255111157,,False,40.425271,-79.888584,Giant Eagle,15218
+"{u'alias': u'grocery', u'title': u'Grocery'}",Wilkinsburg,1758.54754409,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'delis', u'title': u'Delis'}",Wilkinsburg,1758.54754409,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Wilkinsburg,1758.54754409,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,476.513471763,False,,40.4224014282,-79.8853607178,Cogo's,15218
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,2807.18946474,False,,40.4071655273,-79.9122619629,ALDI,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1977.62925137,False,,40.4428,-79.8842,Wilkinsburg Save A Lot,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2066.93362011,False,,40.4436531,-79.8843423,Pittsburgh Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1271.45938887,False,,40.43571,-79.8826799,A & M Market,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1314.06141892,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1178.69423102,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,1368.17338428,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,1368.17338428,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1368.17338428,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1214.23375294,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,1214.23375294,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,1214.23375294,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1240.83557988,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1172.85367866,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1372.77582309,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,1372.77582309,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2154.01017949,False,,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1398.72004151,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,1398.72004151,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2760.87491262,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2510.31902109,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,2510.31902109,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2510.31902109,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,623.89132502,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1273.11861841,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1256.29586552,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1463.20993242,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1786.01559828,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,898.145456154,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1458.33055838,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1152.60824584,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2073.53207504,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1175.5258268,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,2181.67537782,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1936.10312948,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1936.10312948,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2041.70850308,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4957.07458394,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2134.56211026,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,2134.56211026,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1472.37084287,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1472.37084287,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,1472.37084287,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3055.81157332,False,,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,4826.15525774,False,,40.3863983,-80.0931015,Shop N' Save,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,2821.46254027,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2458.2019936,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2145.32569805,False,,40.4000511,-80.0437469,Kohli's Indian Emporium,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2410.98621107,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3071.09788931,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,3590.80961941,False,,40.3970947266,-80.0850143433,ALDI,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4063.92355354,False,,40.3920757,-80.0179599,Daree Salam African Market,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2827.59203352,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2501.28193326,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'fooddeliveryservices', u'title': u'Food Delivery Services'}",Pittsburgh,2501.28193326,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3964.72818116,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4958.21480133,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2677.68780615,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,3824.49158103,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4116.73517218,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1441.77434438,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,5073.28148479,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Carnegie,5073.28148479,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Carnegie,5073.28148479,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1046.58587615,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,655.592973384,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,913.762008712,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,913.762008712,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,913.762008712,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,672.909568344,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,672.909568344,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,672.909568344,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,716.148333767,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,613.399780066,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,922.658987408,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,922.658987408,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1887.07024116,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,931.882211508,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,931.882211508,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2319.13634925,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,2319.13634925,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2319.13634925,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,910.954611642,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,739.548700636,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1008.08767919,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2235.58118673,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,377.960467442,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1022.00177533,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2175.14065275,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2378.86893456,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2894.29129076,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,2894.29129076,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,2647.06769864,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,2647.06769864,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2647.06769864,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2321.25086108,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1975.14781002,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2074.00184139,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,2302.39905232,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2430.20012133,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2775.79285068,,False,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,984.350557924,False,,40.5114078455,-79.9451072884,Aldi,15223
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,931.166795504,False,,40.5117081106,-79.9479945749,Shop N'save,15223
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1152.85658309,False,,40.50362,-79.93732,Christy's Market,15215
+"{u'alias': u'catering', u'title': u'Caterers'}",Pittsburgh,1152.85658309,False,,40.50362,-79.93732,Christy's Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4087.0959574,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Glenshaw,3963.26271616,False,,40.5376244,-79.9635773,Giant Eagle,15116
+"{u'alias': u'grocery', u'title': u'Grocery'}",Glenshaw,3963.26271616,False,,40.5376244,-79.9635773,Giant Eagle,15116
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2246.7588577,False,,40.49663,-79.92619,Cogo's,15215
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,4893.99923852,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,4893.99923852,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4893.99923852,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4566.79788576,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,4566.79788576,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,63.9299210554,,False,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,63.9299210554,,False,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,132.108570522,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,132.108570522,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,472.617565398,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1081.99492888,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,1081.99492888,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,758.200983423,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1957.24020104,False,,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,1702.9240866,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,1702.9240866,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1702.9240866,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1329.82596638,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1930.354567,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1986.11465745,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,1627.79639392,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1627.79639392,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2187.54834229,,False,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,2187.54834229,,False,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,362.144437191,False,,40.3920757,-80.0179599,Daree Salam African Market,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1329.60516494,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,1434.33441384,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1729.86009299,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1425.85367484,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1853.8545901,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1673.67771172,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'fooddeliveryservices', u'title': u'Food Delivery Services'}",Pittsburgh,1673.67771172,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2272.50250407,False,,40.4000511,-80.0437469,Kohli's Indian Emporium,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1475.59885705,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,4054.25093734,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3692.8630187,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4413.80388652,False,,40.3577957,-80.0014877,Giant Eagle,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5269.44425926,,False,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3513.12227146,False,,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4399.14505219,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,4399.14505219,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4399.14505219,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Wilkinsburg,1298.29255842,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'delis', u'title': u'Delis'}",Wilkinsburg,1298.29255842,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Wilkinsburg,1298.29255842,False,,40.439089,-79.878795,Hanini's Market,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2394.80928633,False,,40.4160657184,-79.848578563,Aldi,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,3715.38203051,False,,40.4114837646,-79.9087677002,Giant Eagle,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1518.16775079,False,,40.425271,-79.888584,Giant Eagle,15218
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,4226.88162046,False,,40.4071655273,-79.9122619629,ALDI,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1977.29885386,False,,40.4436531,-79.8843423,Pittsburgh Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1890.9910762,False,,40.4428,-79.8842,Wilkinsburg Save A Lot,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2060.2122116,False,,40.41449,-79.85529,Giant Eagle,15221
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,5349.37003822,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5349.37003822,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5388.26923442,False,,40.4637114895,-79.8269896422,ALDI,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1225.09639561,False,,40.43571,-79.8826799,A & M Market,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3603.42668407,False,,40.454410553,-79.8450241089,Kuhn's Market,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1393.26856319,False,,40.4224014282,-79.8853607178,Cogo's,15218
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3688.66795212,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,3688.66795212,False,,40.4329299927,-79.9145507812,One Stop Mini Mart,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5458.60415165,False,,40.462393,-79.824129,Giant Eagle,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4179.59695818,,False,40.5215699,-80.0689,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",McKees Rocks,4418.89551641,False,,40.4679583981,-80.0976522888,Giant Eagle,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,4640.93953582,False,,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,4355.25818946,False,,40.518261,-80.1626816,Coraopolis Cash Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8315.56004188,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,8315.56004188,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,3845.04043882,False,,40.4699715972,-80.0766346604,Shop N'save,15136
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,4189.28679432,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4189.28679432,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9331.60767764,False,,40.550898,-80.021324,ALDI,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9229.15290896,False,,40.5368208483,-80.0128017862,ALDI,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9850.54032625,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,565.098545992,,False,40.3696861267,-79.9820632935,McGinnis Sisters Special Food Stores,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1012.16880449,False,,40.3834037781,-79.9774703979,Cogo's,15227
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Pittsburgh,925.263720291,False,,40.3667098,-79.9814559,Giant Eagle,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,925.263720291,False,,40.3667098,-79.9814559,Giant Eagle,15227
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,925.263720291,False,,40.3667098,-79.9814559,Giant Eagle,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,439.548766611,False,,40.3709683,-79.9826495,Dollar General,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2628.77159498,False,,40.3577957,-80.0014877,Giant Eagle,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3487.52620156,False,,40.4047838598,-79.990465343,Shop 'n Save,15210
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,5272.40126058,False,,40.340953,-80.024368,SHOP 'n SAVE,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5425.88449918,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,497.614815975,,False,40.5169450845,-80.0387971577,Giant Eagle Supermarket,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2313.76646448,False,,40.52485,-80.0077,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,1295.29828479,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1056.33609472,False,,40.51527,-80.0451099,Arnolds Market,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3401.90657768,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,3196.92783869,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,3196.92783869,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2665.57655704,False,,40.5368208483,-80.0128017862,ALDI,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4275.45134073,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,4275.45134073,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,647.007627286,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1110.855722,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1211.18316851,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,231.625804466,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1408.767473,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,1408.767473,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1142.58939623,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1142.3246598,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1423.31230168,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,1423.31230168,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1509.20863547,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1796.72028422,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1800.99050698,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1894.77189866,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,3119.81035803,,False,40.5207316,-80.2196957,Giant Eagle,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Moon Township,2846.77601006,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Moon Township,2846.77601006,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Moon Township,2846.77601006,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,2729.01046342,False,,40.5164299,-80.2198792,Kuhn's Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,3298.32945528,False,,40.5211716,-80.2195206,Giant Eagle Supermarket,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9259.80600794,False,,40.4417433998,-80.1514752138,Giant Eagle Market District,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Sewickley,6774.48341666,False,,40.541034,-80.182258,Safran's Supermarket,15143
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7284.65256523,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,7284.65256523,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,6641.31648622,False,,40.518261,-80.1626816,Coraopolis Cash Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1366.08885446,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,614.335160661,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2114.22407601,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2106.88934802,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,2106.88934802,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,2106.88934802,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2065.024621,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2141.68343976,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,816.2009211,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,2922.43993483,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,2922.43993483,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2922.43993483,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2160.04456075,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1533.58579126,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2666.193578,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2494.64678537,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3861.5630498,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3861.5630498,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,3861.5630498,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,3762.77789818,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,3762.77789818,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3762.77789818,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,2272.73811145,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2793.44714955,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2246.06120881,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3611.67439064,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Pittsburgh,3611.67439064,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,3611.67439064,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3941.42043181,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,3941.42043181,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7448.69130396,False,,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6118.27326139,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Aspinwall,3879.13189271,False,,40.4883651733,-79.89868927,Labriola's Italian Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Verona,2309.95361615,False,,40.4992752075,-79.8443527222,Giant Eagle,15147
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Verona,2309.95361615,False,,40.4992752075,-79.8443527222,Giant Eagle,15147
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Verona,2309.95361615,False,,40.4992752075,-79.8443527222,Giant Eagle,15147
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4884.01086981,False,,40.4845581055,-79.8208694458,Leonard Labriola's Foods,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4637.01065408,False,,40.489745,-79.819482,Pirollo's Delicatessen & Take-Out,15235
+"{u'alias': u'hotdogs', u'title': u'Fast Food'}",Pittsburgh,4637.01065408,False,,40.489745,-79.819482,Pirollo's Delicatessen & Take-Out,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8216.15963958,False,,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7995.1135719,False,,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3044.55987271,False,,40.4881813021,-79.8820468305,Community Supermarket,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Verona,2270.71774601,False,,40.506690979,-79.8396987915,Listorti Market,15147
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Verona,2270.71774601,False,,40.506690979,-79.8396987915,Listorti Market,15147
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3384.20705636,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,3384.20705636,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,3384.20705636,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3942.55952266,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,3942.55952266,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,11363.152233,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,11363.152233,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,11363.152233,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7705.73798557,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7953.11205098,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7836.16485373,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7908.01753951,False,,40.4428,-79.8842,Wilkinsburg Save A Lot,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8659.87946142,False,,40.43571,-79.8826799,A & M Market,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",New Kensington,10066.4683709,False,,40.5639564235,-79.7674631327,Shop N Save,15068
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Lebanon,2095.23515148,,False,40.3544985388,-80.0492973859,The Fresh Market,15228
+"{u'alias': u'photographystores', u'title': u'Photography Stores & Services'}",Bethel Park,2907.72493454,False,,40.3468170166,-80.0472564697,Giant Eagle Market District,15102
+"{u'alias': u'florists', u'title': u'Florists'}",Bethel Park,2907.72493454,False,,40.3468170166,-80.0472564697,Giant Eagle Market District,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,2907.72493454,False,,40.3468170166,-80.0472564697,Giant Eagle Market District,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2700.27376651,False,,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1653.11533547,False,,40.3685013505,-80.0280508999,SHOP 'n SAVE,15234
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,2697.03416509,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2182.2735695,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2982.95723432,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'beer_and_wine', u'title': u'Beer, Wine & Spirits'}",Upper Saint Clair,3142.69002295,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Upper Saint Clair,3142.69002295,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Upper Saint Clair,3142.69002295,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3202.92890662,False,,40.3920757,-80.0179599,Daree Salam African Market,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,4259.67948686,False,,40.3863983,-80.0931015,Shop N' Save,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2901.59334914,False,,40.4000511,-80.0437469,Kohli's Indian Emporium,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,4254.15188676,False,,40.33873,-80.02439,Giant Eagle,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4041.99693978,False,,40.3365314,-80.050948,Getgo From Giant Eagle,15241
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,4041.99693978,False,,40.3365314,-80.050948,Getgo From Giant Eagle,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4594.98113064,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4140.81025484,False,,40.3577957,-80.0014877,Giant Eagle,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,547.259012092,,False,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,332.326585671,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,649.439130812,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,649.439130812,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,649.439130812,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,524.147103325,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,364.126065813,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,364.126065813,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1707.58570085,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,1707.58570085,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1707.58570085,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,221.973997031,False,,40.4551620483,-79.9314727783,Uni Marts,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1597.65055891,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,1597.65055891,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1393.69890071,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,1152.46435475,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1152.46435475,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,983.003620811,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,774.160792109,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2012.99964775,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,893.148455454,,False,40.3685013505,-80.0280508999,SHOP 'n SAVE,15234
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Lebanon,3146.35609947,False,,40.3544985388,-80.0492973859,The Fresh Market,15228
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1648.67516641,False,,40.3834569454,-80.01532875,ALDI,15226
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4038.68411339,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,4038.68411339,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,3182.1389697,False,,40.340953,-80.024368,SHOP 'n SAVE,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1831.87696026,False,,40.3577957,-80.0014877,Giant Eagle,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3317.10465946,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,3839.40436921,False,,40.3349208598,-80.0232669238,Aldi,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3745.65532525,False,,40.3834037781,-79.9774703979,Cogo's,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2963.09025389,False,,40.3709683,-79.9826495,Dollar General,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3470.91507688,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4221.66703699,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4597.47882632,False,,40.4047838598,-79.990465343,Shop 'n Save,15210
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2566.65718647,,False,40.4329185,-79.817627,SHOP 'n SAVE,15235
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,2566.65718647,,False,40.4329185,-79.817627,SHOP 'n SAVE,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,946.735373637,False,,40.4637114895,-79.8269896422,ALDI,15235
+"{u'alias': u'wholesale_stores', u'title': u'Wholesale Stores'}",Monroeville,3356.68380181,False,,40.431968689,-79.8001098633,GFS Marketplace,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,3356.68380181,False,,40.431968689,-79.8001098633,GFS Marketplace,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3275.22898892,False,,40.4845581055,-79.8208694458,Leonard Labriola's Foods,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7945.16191138,False,,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3862.07321058,False,,40.489745,-79.819482,Pirollo's Delicatessen & Take-Out,15235
+"{u'alias': u'hotdogs', u'title': u'Fast Food'}",Pittsburgh,3862.07321058,False,,40.489745,-79.819482,Pirollo's Delicatessen & Take-Out,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6814.60056138,False,,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4786.97024275,False,,40.4160657184,-79.848578563,Aldi,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,6487.6679684,False,,40.43497,-79.75316,McGinnis Sisters,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1672.86660436,False,,40.454410553,-79.8450241089,Kuhn's Market,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8288.12674944,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,4579.15101866,False,,40.4363096842,-79.7772691743,El Mercadito Mexican Store,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,795.462724459,False,,40.462393,-79.824129,Giant Eagle,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8732.17745158,False,,40.4297116399,-79.9229688942,Young's Oriental Grocery Store,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Penn Hills,4124.0061703,False,,40.4772430733,-79.7859881446,Aldi,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5172.6118808,False,,40.4428,-79.8842,Wilkinsburg Save A Lot,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5322.22851912,False,,40.43571,-79.8826799,A & M Market,15221
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8476.81864576,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8457.04355864,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",West Mifflin,8892.59437064,False,,40.3823404759,-79.8699315637,Giant Eagle,15122
+"{u'alias': u'grocery', u'title': u'Grocery'}",West Mifflin,2251.80269019,,False,40.3461561352,-79.9436641484,Shop N'save,15122
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1172.92899577,False,,40.3428934973,-79.9842566393,Aldi,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pleasant Hills,1861.65602668,False,,40.335316,-79.950241,Aldi,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",West Mifflin,1886.91638826,False,,40.339127,-79.949684,Giant Eagle Supermarket,15122
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3609.39476053,False,,40.3696861267,-79.9820632935,McGinnis Sisters Special Food Stores,15227
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Pittsburgh,3286.5700079,False,,40.3667098,-79.9814559,Giant Eagle,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3286.5700079,False,,40.3667098,-79.9814559,Giant Eagle,15227
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3286.5700079,False,,40.3667098,-79.9814559,Giant Eagle,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2000.68674835,False,,40.3242302,-79.95681,Foodland Markets,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3355.43205716,False,,40.3577957,-80.0014877,Giant Eagle,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2000.68674835,False,,40.32423,-79.95681,Shop'n Save,15236
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3760.63409637,False,,40.3709683,-79.9826495,Dollar General,15227
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3186.63385632,,False,40.57036934,-80.0222271444,Trader Joe's,15209
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,2921.83031684,False,,40.5169450845,-80.0387971577,Giant Eagle Supermarket,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1833.23958843,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,1833.23958843,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3908.8303312,False,,40.5215699,-80.0689,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3107.54847471,False,,40.52485,-80.0077,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1323.3936919,False,,40.550898,-80.021324,ALDI,15237
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,4677.2641099,False,,40.58108,-80.05601,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4677.2641099,False,,40.58108,-80.05601,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,2819.28059709,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,611.503768332,False,,40.5478057861,-80.0351028442,Shop n Save,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1775.73191568,False,,40.5368208483,-80.0128017862,ALDI,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3241.48273846,False,,40.51527,-80.0451099,Arnolds Market,15229
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,3897.55111088,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3897.55111088,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,3733.17875597,,False,40.43497,-79.75316,McGinnis Sisters,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,4655.08756563,False,,40.4323654175,-79.7721710205,Giant Eagle,15146
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Monroeville,4655.08756563,False,,40.4323654175,-79.7721710205,Giant Eagle,15146
+"{u'alias': u'delis', u'title': u'Delis'}",Monroeville,4160.94519039,False,,40.4356,-79.76909,Labriola's Italian Market,15146
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Monroeville,4160.94519039,False,,40.4356,-79.76909,Labriola's Italian Market,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,4160.94519039,False,,40.4356,-79.76909,Labriola's Italian Market,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,3732.62111966,False,,40.4437576405,-79.7131779045,Aldi,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,3941.0805392,False,,40.4391288862,-79.7712433711,Asian Food Market  Bobae,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,3228.51837822,False,,40.4388766138,-79.7411384007,Giant Eagle,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,2978.53637734,False,,40.4459877014,-79.764289856,Pakeeza,15146
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Monroeville,2978.53637734,False,,40.4459877014,-79.764289856,Pakeeza,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3368.36696648,False,,40.462396,-79.704748,Shop'nSave,15239
+"{u'alias': u'grocery', u'title': u'Grocery'}",Monroeville,4499.96328303,False,,40.4363096842,-79.7772691743,El Mercadito Mexican Store,15146
+"{u'alias': u'grocery', u'title': u'Grocery'}",Penn Hills,3709.03302328,False,,40.4772430733,-79.7859881446,Aldi,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Verona,5191.18575654,False,,40.49975,-79.79126,Community Supermarket,15147
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,328.373563829,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Pittsburgh,328.373563829,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,328.373563829,,False,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,947.275806102,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,947.275806102,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,125.937266611,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,125.937266611,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,125.937266611,False,,40.48798137,-79.8891996081,Walmart,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,946.385342187,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,946.385342187,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2877.48173446,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4101.85618014,False,,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4805.13486333,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4708.41867922,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,4708.41867922,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,4708.41867922,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5089.13235725,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5697.50906531,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,5697.50906531,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4364.18648591,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4606.36849861,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4546.0309624,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5405.98678035,False,,40.454410553,-79.8450241089,Kuhn's Market,15235
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1205.8131228,,False,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1205.8131228,,False,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,1205.8131228,,False,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2327.17274948,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,2327.17274948,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1196.83574147,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2391.59817023,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2349.69626745,False,,40.4000511,-80.0437469,Kohli's Indian Emporium,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2329.20598963,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2439.08416094,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'fooddeliveryservices', u'title': u'Food Delivery Services'}",Pittsburgh,2439.08416094,False,,40.4102936,-80.024437,GoinGreenGrocery,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2813.67607054,False,,40.3972511292,-80.0355987549,Cogo's,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3362.80331716,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5369.23009849,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,3900.51149181,False,,40.3970947266,-80.0850143433,ALDI,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,3552.71621974,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,5141.68809083,False,,40.3863983,-80.0931015,Shop N' Save,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3874.75625819,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1932.70742208,,False,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,2038.96795799,False,,40.3863983,-80.0931015,Shop N' Save,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Lebanon,3206.4816856,False,,40.3544985388,-80.0492973859,The Fresh Market,15228
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2075.73735364,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'beer_and_wine', u'title': u'Beer, Wine & Spirits'}",Upper Saint Clair,3585.97242617,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Upper Saint Clair,3585.97242617,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Upper Saint Clair,3585.97242617,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bridgeville,3184.16174914,False,,40.3667297363,-80.1068115234,Giant Eagle,15017
+"{u'alias': u'grocery', u'title': u'Grocery'}",Dormont,3983.09107243,False,,40.3958737373,-80.0351537272,Jmart International Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,2188.53084436,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Carnegie,2188.53084436,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Carnegie,2188.53084436,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bridgeville,4255.05359996,False,,40.3541755513,-80.1155303791,Aldi,15017
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3988.93104542,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,5731.12849978,False,,40.340953,-80.024368,SHOP 'n SAVE,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4775.18198819,False,,40.3365314,-80.050948,Getgo From Giant Eagle,15241
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,4775.18198819,False,,40.3365314,-80.050948,Getgo From Giant Eagle,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5630.73078948,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,5914.50748196,False,,40.33873,-80.02439,Giant Eagle,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5713.59280927,False,,40.411168,-80.025054,Las Palmas Carniceria,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1127.87141866,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1350.26490625,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1731.83378756,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1889.71631799,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2428.94918135,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05440471,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2946.44774708,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05762339,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2424.37270119,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,353.082468959,,False,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2054.70585479,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2054.70585479,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2465.2835724,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Aspinwall,2155.00426881,False,,40.4883651733,-79.89868927,Labriola's Italian Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2580.46757675,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2284.78740096,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,1668.9982338,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1668.9982338,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2033.4564513,False,,40.49663,-79.92619,Cogo's,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2053.72930728,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2053.72930728,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3049.57699016,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3049.57699016,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3351.8609317,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,3351.8609317,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4273.56358491,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,4273.56358491,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1825.96118735,,False,40.3514873838,-80.0516319997,Trader Joe's,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Lebanon,2165.69575816,False,,40.3544985388,-80.0492973859,The Fresh Market,15228
+"{u'alias': u'photographystores', u'title': u'Photography Stores & Services'}",Bethel Park,2074.26850903,False,,40.3468170166,-80.0472564697,Giant Eagle Market District,15102
+"{u'alias': u'florists', u'title': u'Florists'}",Bethel Park,2074.26850903,False,,40.3468170166,-80.0472564697,Giant Eagle Market District,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,2074.26850903,False,,40.3468170166,-80.0472564697,Giant Eagle Market District,15102
+"{u'alias': u'beer_and_wine', u'title': u'Beer, Wine & Spirits'}",Upper Saint Clair,1111.71855354,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Upper Saint Clair,1111.71855354,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Upper Saint Clair,1111.71855354,False,,40.346352,-80.058038,Whole Foods Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1662.99780961,False,,40.34892,-80.05229,The Uncommon Market,15241
+"{u'alias': u'pastashops', u'title': u'Pasta Shops'}",Pittsburgh,1662.99780961,False,,40.34892,-80.05229,The Uncommon Market,15241
+"{u'alias': u'herbsandspices', u'title': u'Herbs & Spices'}",Pittsburgh,1662.99780961,False,,40.34892,-80.05229,The Uncommon Market,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1843.57831046,False,,40.3365314,-80.050948,Getgo From Giant Eagle,15241
+"{u'alias': u'convenience', u'title': u'Convenience Stores'}",Pittsburgh,1843.57831046,False,,40.3365314,-80.050948,Getgo From Giant Eagle,15241
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,2702.59121611,False,,40.321823,-80.057746,Ruthfred Market,15102
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Bethel Park,2702.59121611,False,,40.321823,-80.057746,Ruthfred Market,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bethel Park,4147.99080806,False,,40.3349208598,-80.0232669238,Aldi,15102
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1293.05327159,,False,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,1293.05327159,,False,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2023.08586434,False,,40.4417433998,-80.1514752138,Giant Eagle Market District,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,11029.540879,False,,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,8490.81732882,False,,40.5207316,-80.2196957,Giant Eagle,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10926.2751639,False,,40.5215699,-80.0689,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",McKees Rocks,5910.2931033,False,,40.4679583981,-80.0976522888,Giant Eagle,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Moon Township,8233.02681026,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Moon Township,8233.02681026,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Moon Township,8233.02681026,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,9448.03505808,False,,40.3970947266,-80.0850143433,ALDI,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,8120.65287448,False,,40.5164299,-80.2198792,Kuhn's Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,8526.93671204,False,,40.5211716,-80.2195206,Giant Eagle Supermarket,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Oakdale,6699.45308905,False,,40.3983612061,-80.1875076294,Sil's Market,15071
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,6899.24170654,False,,40.518261,-80.1626816,Coraopolis Cash Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,9732.00245734,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Carnegie,9732.00245734,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Carnegie,9732.00245734,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,10938.0161039,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,10938.0161039,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1127.87141866,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1350.26490625,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1731.83378756,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1889.71631799,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2428.94918135,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05440471,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2946.44774708,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05762339,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2424.37270119,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1127.87141866,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1350.26490625,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1731.83378756,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1889.71631799,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2428.94918135,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05440471,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2946.44774708,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05762339,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2424.37270119,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,353.082468959,,False,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2054.70585479,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2054.70585479,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2465.2835724,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Aspinwall,2155.00426881,False,,40.4883651733,-79.89868927,Labriola's Italian Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2580.46757675,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2284.78740096,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,1668.9982338,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1668.9982338,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2033.4564513,False,,40.49663,-79.92619,Cogo's,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2053.72930728,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2053.72930728,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3049.57699016,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3049.57699016,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3351.8609317,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,3351.8609317,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4273.56358491,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,4273.56358491,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1195.24881958,,False,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,334.961332746,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1214.73659123,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1037.79088133,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2116.95544786,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,2116.95544786,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,2116.95544786,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,353.082468959,,False,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2054.70585479,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2054.70585479,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,2360.89003182,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2465.2835724,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Aspinwall,2155.00426881,False,,40.4883651733,-79.89868927,Labriola's Italian Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2580.46757675,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2284.78740096,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,1668.9982338,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1668.9982338,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2033.4564513,False,,40.49663,-79.92619,Cogo's,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2053.72930728,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2053.72930728,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3049.57699016,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3049.57699016,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3351.8609317,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,3351.8609317,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4273.56358491,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,4273.56358491,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,651.924997843,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1365.29002636,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,531.321219177,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1461.78219034,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1215.2528675,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1273.68140461,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1556.93884353,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1600.20850828,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1621.62747183,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2168.07050027,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2168.07050027,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,385.670413047,,False,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2076.14789628,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2076.14789628,False,,40.489741,-79.901218,Feast on Brilliant,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2368.13157902,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,2368.13157902,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,2368.13157902,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2472.35597796,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Aspinwall,2180.64073314,False,,40.4883651733,-79.89868927,Labriola's Italian Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2579.77845736,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2270.53186724,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,1669.21581657,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1669.21581657,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2006.49147679,False,,40.49663,-79.92619,Cogo's,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2075.21737589,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2075.21737589,False,,40.48972,-79.90119,Brilliant Market,15215
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3029.87078279,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3029.87078279,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3355.76840922,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,3355.76840922,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4243.47970948,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,4243.47970948,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,649.204054518,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,649.204054518,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,649.204054518,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,642.246266149,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,864.60584495,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1120.54336943,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,1120.54336943,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1945.95406055,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,1945.95406055,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2468.22480218,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2218.54632283,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2372.76148926,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2207.20981,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,662.669804633,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,662.669804633,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,662.669804633,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1094.9939704,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1698.79789978,False,,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1301.44758903,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1418.04644464,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,1418.04644464,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,1853.51678963,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,1853.51678963,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1853.51678963,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2246.81389713,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2246.81389713,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2246.81389713,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2359.1466338,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1787.8233699,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2240.23716828,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2240.23716828,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2377.51451402,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,2377.51451402,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,2377.51451402,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1958.09218563,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2353.91981934,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2396.47237828,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2396.47237828,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2262.54181601,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2262.54181601,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2340.94950455,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2342.20865216,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2213.55431108,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2417.43934261,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2469.43599147,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2895.67274821,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2895.67274821,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,663.922949411,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1330.21457371,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,504.790573354,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1426.6655225,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1187.03206062,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1291.61926918,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1591.70501321,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1633.31932693,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1656.66087243,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2184.29972856,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2184.29972856,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1127.87141866,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1350.26490625,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1731.83378756,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1889.71631799,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2428.94918135,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05440471,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2946.44774708,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05762339,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2424.37270119,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1091.6148392,,False,40.5478057861,-80.0351028442,Shop n Save,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2418.86811466,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,2418.86811466,False,,40.5553377999,-80.0182909555,Giant Eagle,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2881.88150908,False,,40.57036934,-80.0222271444,Trader Joe's,15209
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2151.32515663,False,,40.550898,-80.021324,ALDI,15237
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,3271.00897757,False,,40.58108,-80.05601,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3271.00897757,False,,40.58108,-80.05601,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4711.1899627,False,,40.52485,-80.0077,Kuhn's Market,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,238.195436121,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,874.565567408,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1150.96564078,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1863.56985381,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1966.2277212,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1068.31658495,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1673.72808406,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2549.06919241,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2549.06919241,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,545.443692666,,False,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1127.87141866,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1350.26490625,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1731.83378756,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2339.94575919,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1889.71631799,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2333.65983808,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2431.32215318,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2356.80375662,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2428.94918135,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05440471,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2946.44774708,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2311.05762339,False,,40.4269382358,-79.9383573979,Cogo's,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2424.37270119,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1093.38055877,,False,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2219.6978056,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4410.05187124,False,,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,3129.38190768,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,3129.38190768,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,3613.43629607,False,,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3788.87962271,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,4795.44213038,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,4795.44213038,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4795.44213038,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7960.22935713,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,7960.22935713,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,7960.22935713,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7423.05886298,False,,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5179.31268976,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,5179.31268976,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,5179.31268976,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,6045.5822704,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,6045.5822704,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6045.5822704,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5172.8864342,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,4873.45038073,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6729.61775334,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8248.02360598,False,,40.4047838598,-79.990465343,Shop 'n Save,15210
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,5853.2656576,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8206.44469774,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4477.152176,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,6327.26665994,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6327.26665994,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,349.587111226,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,532.914916392,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1497.1743772,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1420.30949854,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1409.6926021,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2052.50121992,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2140.48142371,False,,40.4496613,-79.9856873,Market Outlet,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2387.70421116,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,2387.70421116,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,2387.70421116,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1337.63802461,False,,40.4268074036,-79.9676742554,Aldi,15203
+"{u'alias': u'cheese', u'title': u'Cheese Shops'}",Pittsburgh,2280.72285186,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,2280.72285186,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2280.72285186,False,,40.451129,-79.983489,Pennsylvania Macaroni Co,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6243.91942414,False,,40.45932,-79.919044,Trader Joe's,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3737.63147788,False,,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4503.56611249,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4503.56611249,False,,40.4618721008,-79.9485549927,Groceria Italiana,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2176.73341655,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafoodmarkets', u'title': u'Seafood Markets'}",Pittsburgh,2176.73341655,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'seafood', u'title': u'Seafood'}",Pittsburgh,2176.73341655,False,,40.450111,-79.9858749,Robert Wholey and Co Fish Market,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5410.2238507,False,,40.4573822,-79.9291534,Tokyo Japanese Food Store,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2195.00634571,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3129.12553982,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'polish', u'title': u'Polish'}",Pittsburgh,3129.12553982,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3129.12553982,False,,40.4566938,-79.9683627,Alfred's Deli & Market,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2145.44495014,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4957.57203093,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2282.99041192,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,2282.99041192,False,,40.4512405,-79.9833221,Stamoolis Brothers Company,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5941.1356216,False,,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5496.25433908,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,5496.25433908,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,5496.25433908,False,,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5381.3271854,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,5381.3271854,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,5381.3271854,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3296.491589,False,,40.445098877,-79.9484939575,Kohli's Indian Imports,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5073.74529658,False,,40.4581562639,-79.9346383818,ALDI,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4600.17253961,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'gourmet', u'title': u'Specialty Food'}",Pittsburgh,4600.17253961,False,,40.45061,-79.93491,Shadyside Market & Deli,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6203.34619247,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,6203.34619247,False,,40.399676,-80.043429,Kuhn's Market,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6803.51542746,False,,40.4472084,-79.905098,Frick Park Market,15208
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3364.74257186,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,4008.49901048,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,4008.49901048,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4008.49901048,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7327.63658822,False,,40.475861,-79.919456,Bryant Street Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4477.25469096,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4477.25469096,False,,40.46215,-79.94934,Donatelli's Italian Food Center,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2312.09516489,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'mexican', u'title': u'Mexican'}",Pittsburgh,2312.09516489,False,,40.45158,-79.9834824,Reyna Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3528.70454507,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,3528.70454507,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5052.29440372,False,,40.4297116399,-79.9229688942,Young's Oriental Grocery Store,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4443.91721286,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3983.51545539,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'mediterranean', u'title': u'Mediterranean'}",Pittsburgh,3983.51545539,False,,40.46484,-79.96775,Salonika Imports,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,493.877510067,False,,40.43098,-79.97725,Giant Eagle,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3510.7188831,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,536.858250007,False,,40.4287910461,-79.9766845703,Mediterranean Market,15203
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,5097.74023411,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5097.74023411,False,,40.4355091425,-79.9226289759,Giant Eagle,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2778.43120268,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1347.62526678,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4633.33701366,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4633.33701366,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,4633.33701366,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Lebanon,10186.968669,False,,40.3544985388,-80.0492973859,The Fresh Market,15228
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9858.4959376,False,,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'bakeries', u'title': u'Bakeries'}",Pittsburgh,9858.4959376,False,,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'meats', u'title': u'Meat Shops'}",Pittsburgh,9858.4959376,False,,40.4882107543,-79.8938473445,Giant Eagle Market District,15238
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2205.99330989,False,,40.4504509,-79.9852295,New Sambok Oriental Foods,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5192.48835634,False,,40.4642710002,-79.9398717375,Aldi,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,6479.82082656,False,,40.4071655273,-79.9122619629,ALDI,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Homestead,6635.6075135,False,,40.4114837646,-79.9087677002,Giant Eagle,15120
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8270.96764449,False,,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,3653.15577288,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,3653.15577288,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3653.15577288,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2351.21210479,False,,40.4518509,-79.98246,Jade 99 Asian Supermarket,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4648.10817992,False,,40.4218924216,-79.9288652885,Giant Eagle,15207
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Pittsburgh,6055.71789372,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6055.71789372,False,,40.458577,-79.921053,Giant Eagle,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1083.07503742,,False,40.457244,-80.009625,Allegheny City Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2549.99134423,False,,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1966.67205998,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3188.19700826,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3249.50352809,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,3510.81930592,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,3510.81930592,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3510.81930592,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3446.35944529,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4203.13709623,False,,40.4600213,-79.9726906,Many More Asian Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3871.1386228,False,,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,3169.51595047,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4109.74387735,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,4109.74387735,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,4109.74387735,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3880.5139939,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4323.65171746,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3785.84843082,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,4905.43408202,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,4905.43408202,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5211.5101114,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,5211.5101114,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,392.804697734,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,937.208644106,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1026.00092086,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1915.47106881,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2017.24025865,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,990.423563348,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1497.20928378,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2365.67797925,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2365.67797925,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,124.481934011,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,582.107773106,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1570.99901947,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1673.71617494,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1419.82685748,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1358.07218474,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1683.7880684,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2578.89814838,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2578.89814838,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1093.38055877,,False,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2219.6978056,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4410.05187124,False,,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,3129.38190768,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,3129.38190768,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,3613.43629607,False,,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3788.87962271,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'cafes', u'title': u'Cafes'}",Pittsburgh,4795.44213038,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'markets', u'title': u'Fruits & Veggies'}",Pittsburgh,4795.44213038,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4795.44213038,False,,40.4667510986,-79.9822921753,"Pear and the Pickle, Cafe & Market",15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7960.22935713,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,7960.22935713,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'importedfood', u'title': u'Imported Food'}",Pittsburgh,7960.22935713,False,,40.4365708987,-79.9553876064,Groceria Merante,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,7423.05886298,False,,40.478798,-79.951927,52nd Street Market,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5179.31268976,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,5179.31268976,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,5179.31268976,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,6045.5822704,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Pittsburgh,6045.5822704,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6045.5822704,False,,40.46168,-79.96819,Family Dollar Stores,15201
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,5172.8864342,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,4873.45038073,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6729.61775334,False,,40.409942627,-80.0249862671,Market On Broadway IGA,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8248.02360598,False,,40.4047838598,-79.990465343,Shop 'n Save,15210
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,5853.2656576,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,8206.44469774,False,,40.3958206,-80.0351868,People's Food Mart,15216
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4477.152176,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,6327.26665994,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,6327.26665994,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,246.237646062,,False,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,708.032239026,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,708.032239026,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,2601.3523038,False,,40.5169450845,-80.0387971577,Giant Eagle Supermarket,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2117.11074917,False,,40.51527,-80.0451099,Arnolds Market,15229
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,2527.17058117,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2527.17058117,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,4172.55158953,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,4286.95216717,False,,40.4699715972,-80.0766346604,Shop N'save,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3835.68325326,,False,40.4417433998,-80.1514752138,Giant Eagle Market District,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1710.51759646,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,1710.51759646,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,7437.10292942,False,,40.5207316,-80.2196957,Giant Eagle,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Moon Township,7146.70669966,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Moon Township,7146.70669966,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Moon Township,7146.70669966,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Oakdale,6560.4906034,False,,40.3983612061,-80.1875076294,Sil's Market,15071
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,7019.39229506,False,,40.5164299,-80.2198792,Kuhn's Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",McKees Rocks,8066.50035376,False,,40.4679583981,-80.0976522888,Giant Eagle,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,7221.7125653,False,,40.518261,-80.1626816,Coraopolis Cash Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,7518.14124512,False,,40.5211716,-80.2195206,Giant Eagle Supermarket,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,11285.8218367,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Carnegie,11285.8218367,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Carnegie,11285.8218367,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,262.272208592,,False,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'organic_stores', u'title': u'Organic Stores'}",Pittsburgh,262.272208592,,False,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'healthmarkets', u'title': u'Health Markets'}",Pittsburgh,262.272208592,,False,40.4585106475,-79.9288301986,Whole Foods Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,719.412719023,False,,40.4563407898,-79.9345550537,Giant Eagle Market District,15232
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,283.751667237,False,,40.4601593018,-79.9253768921,Global Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,488.665195768,False,,40.4572512209,-79.9252340198,R Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,492.746433728,False,,40.4639663696,-79.9326629639,Le's Grocery,15206
+"{u'alias': u'farmersmarket', u'title': u'Farmers Market'}",Pittsburgh,507.71699721,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,507.71699721,False,,40.4653612889,-79.9294914707,Farm Fresh Food Market,15206
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2252.69571296,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,2252.69571296,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2252.69571296,False,,40.44156,-79.92054,Food Shoppe,15217
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2078.44378072,False,,40.463459,-79.9520596,Bloomfield ShurSave,15224
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2194.83752595,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'diyfood', u'title': u'Do-It-Yourself Food'}",Pittsburgh,2194.83752595,False,,40.4522,-79.95182,Bombay Food Market,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2188.56335302,False,,40.4473075867,-79.9471588135,Seoul Mart,15213
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,289.196482885,,False,40.4417433998,-80.1514752138,Giant Eagle Market District,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1906.37218232,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'deptstores', u'title': u'Department Stores'}",Pittsburgh,1906.37218232,False,,40.4477157593,-80.1761016846,Walmart Supercenter,15275
+"{u'alias': u'grocery', u'title': u'Grocery'}",McKees Rocks,5638.02335276,False,,40.4679583981,-80.0976522888,Giant Eagle,15136
+"{u'alias': u'grocery', u'title': u'Grocery'}",Oakdale,5581.86221478,False,,40.3983612061,-80.1875076294,Sil's Market,15071
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9316.68104914,False,,40.392482,-80.065826,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,7694.88942463,False,,40.3970947266,-80.0850143433,ALDI,15106
+"{u'alias': u'grocery', u'title': u'Grocery'}",Moon Township,10071.9409315,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Moon Township,10071.9409315,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Moon Township,10071.9409315,False,,40.5162734985,-80.2236251831,Walmart Supercenter,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,8513.27341544,False,,40.518261,-80.1626816,Coraopolis Cash Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,9947.67493876,False,,40.3920413554,-80.0612957776,A Plus Mini Market,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",McDonald,10790.8540309,False,,40.3701230139,-80.236980468,Giant Eagle,15057
+"{u'alias': u'grocery', u'title': u'Grocery'}",Coraopolis,9958.70599886,False,,40.5164299,-80.2198792,Kuhn's Market,15108
+"{u'alias': u'grocery', u'title': u'Grocery'}",Carnegie,7908.02800022,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'drugstores', u'title': u'Drugstores'}",Carnegie,7908.02800022,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'discountstore', u'title': u'Discount Store'}",Carnegie,7908.02800022,False,,40.3845507,-80.0932689,Walmart,15106
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,10311.604649,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,10311.604649,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,232.773827155,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,729.434449351,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1712.75377439,False,,40.4497680664,-79.9864196777,Lotus Food,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1814.93012725,False,,40.4503593,-79.9854813,Labad's,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1237.08345195,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,1195.87760481,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1549.22654829,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2437.11384597,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,2437.11384597,False,,40.4220428467,-79.9835510254,Pardee Deli & Grocery,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1048.29629879,,False,40.4427944061,-79.9814645201,Shop N Save,15219
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1062.52175395,False,,40.44394,-79.99554,Kwik-E-Mart,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,755.897084466,False,,40.4289093018,-79.9889450073,CoGo's,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,879.631834102,False,,40.4291305542,-79.9845657349,Schwartz Market,15203
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,1701.76648834,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3549.6156653,,False,40.4411964417,-80.0024795532,Market Street Grocery,15222
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3219.7014481,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'delis', u'title': u'Delis'}",Pittsburgh,3219.7014481,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'sandwiches', u'title': u'Sandwiches'}",Pittsburgh,3219.7014481,False,,40.4255881,-80.041364,Giant Eagle,15220
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2287.95200714,False,,40.4682462662,-80.0262098014,Kuhn's Market,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3473.30913106,False,,40.4513865709,-80.000995025,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2491.15258636,False,,40.4306342942,-80.0521789677,Shop N'save,15205
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,3800.2315852,False,,40.4295616,-80.0082169,SHOP 'n SAVE,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mount Washington,3485.49376607,False,,40.4312418401,-80.0109379739,Cogo's,15211
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4170.22802444,False,,40.4892845154,-80.0442886353,Giant Eagle,15212
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,4158.98179559,False,,40.42702,-80.00516,Cogo's,15233
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellevue,246.237646062,,False,40.4977358133,-80.0600331277,Kuhn's Market,15202
+"{u'alias': u'delis', u'title': u'Delis'}",Bellvue,708.032239026,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",Bellvue,708.032239026,False,,40.494979,-80.054847,Produce Plus Market and Deli,15202
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,2601.3523038,False,,40.5169450845,-80.0387971577,Giant Eagle Supermarket,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2117.11074917,False,,40.51527,-80.0451099,Arnolds Market,15229
+"{u'alias': u'banks', u'title': u'Banks & Credit Unions'}",Pittsburgh,2527.17058117,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",Pittsburgh,2527.17058117,False,,40.5215699,-80.0689,Citizens Bank,15237
+"{u'alias': u'grocery', u'title': u'Grocery'}",West View,4172.55158953,False,,40.5197999,-80.0181,Shop N Save,15229
+"{u'alias': u'grocery', u'title': u'Grocery'}",Mc Kees Rocks,4286.95216717,False,,40.4699715972,-80.0766346604,Shop N'save,15136
