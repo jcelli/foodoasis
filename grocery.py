@@ -175,13 +175,13 @@ def query_api(term, location):
 
     # data needed amount of businesses
     # , businesses, categories, categories.alias, categories.title, latitude, longitude
-    # distance, is_closed, name, price
+    # distance, is_closed, name, price, id
 
     # dataframe to add all loop dataframes into
 
     dict = {'Latitude': businesses[0]['coordinates']['latitude'],'Longitude': businesses[0]['coordinates']['longitude'],'Categories':
         businesses[0]['categories'],'Distance': businesses[0]['distance'],'Is_closed': businesses[0]['is_closed'],'Name': businesses[0]['name'],
-            'Zip': businesses[0]['location']['zip_code'], 'City': businesses[0]['location']['city']}
+            'Zip': businesses[0]['location']['zip_code'], 'City': businesses[0]['location']['city'], 'YelpID': businesses[0]['id']}
 
     df = pandas.DataFrame(data=dict)
 
@@ -189,7 +189,7 @@ def query_api(term, location):
     for index in range(1,len(businesses)):
         list = {'Latitude': businesses[index]['coordinates']['latitude'],'Longitude': businesses[index]['coordinates']['longitude'],
               'Categories': businesses[index]['categories'],'Distance': businesses[index]['distance'], 'Is closed': businesses[index]['is_closed'],'Name': businesses[index]['name'],
-              'Zip': businesses[index]['location']['zip_code'],'City': businesses[index]['location']['city']}
+              'Zip': businesses[index]['location']['zip_code'],'City': businesses[index]['location']['city'], 'YelpID': businesses[0]['id']}
         tempdf = pandas.DataFrame(data=list)
         df = df.append(tempdf, ignore_index=True)
     with open('test.csv', 'a') as f:
