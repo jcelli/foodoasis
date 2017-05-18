@@ -58,7 +58,7 @@ GRANT_TYPE = 'client_credentials'
 
 
 # Defaults for our simple example.
-DEFAULT_TERM = 'dinner'
+DEFAULT_TERM = 'grocery'
 DEFAULT_LOCATION = 'San Francisco, CA'
 SEARCH_LIMIT = 3
 
@@ -134,7 +134,8 @@ def search(bearer_token, term, location):
 
     url_params = {
         'categories': term.replace(' ', '+'),
-        'location': location.replace(' ', '+'),
+        'latitude': float(location[1]),
+        'longitude': float(location[0]),
         'limit': 50,
     }
     return request(API_HOST, SEARCH_PATH, bearer_token, url_params=url_params)
@@ -181,7 +182,7 @@ def query_api(term, location):
 
     dict = {'Latitude': businesses[0]['coordinates']['latitude'],'Longitude': businesses[0]['coordinates']['longitude'],'Categories':
         businesses[0]['categories'],'Distance': businesses[0]['distance'],'Is_closed': businesses[0]['is_closed'],'Name': businesses[0]['name'],
-            'Zip': businesses[0]['location']['zip_code'], 'City': businesses[0]['location']['city'], 'YelpID': businesses[0]['id']}
+            'Zip': businesses[0]['location']['zip_code'], 'City': businesses[0]['location']['city'], 'YelpID': businesses[0]['id'], 'Rating': businesses[0]['rating']}
 
     df = pandas.DataFrame(data=dict)
 
@@ -189,7 +190,7 @@ def query_api(term, location):
     for index in range(1,len(businesses)):
         list = {'Latitude': businesses[index]['coordinates']['latitude'],'Longitude': businesses[index]['coordinates']['longitude'],
               'Categories': businesses[index]['categories'],'Distance': businesses[index]['distance'], 'Is closed': businesses[index]['is_closed'],'Name': businesses[index]['name'],
-              'Zip': businesses[index]['location']['zip_code'],'City': businesses[index]['location']['city'], 'YelpID': businesses[0]['id']}
+              'Zip': businesses[index]['location']['zip_code'],'City': businesses[index]['location']['city'], 'YelpID': businesses[0]['id'], 'Rating': businesses[0]['rating']}
         tempdf = pandas.DataFrame(data=list)
         df = df.append(tempdf, ignore_index=True)
     with open('test.csv', 'a') as f:
@@ -208,13 +209,14 @@ def main():
 
     input_values = parser.parse_args()
 
-    with open('pghzipcodes.txt') as f:
+    with open('pghlatlong.txt') as f:
         content = f.readlines()
     # you may also want to remove whitespace characters like `\n` at the end of each line
     content = [x.strip() for x in content]
 
     for x in range(0, len(content)):
-        input_values.location = str(content[x])
+        spl = content[x].split(',')
+        input_values.location = spl
 
         try:
             query_api(input_values.term, input_values.location)
